@@ -1,79 +1,43 @@
 h1{
     text-align: center;
-    background-color: rgb(189,100, 110);
-    
-}
-div>div{ 
-
-    display: inline-block; /* Makes the div elements appear inline */
-    
-    padding: 5px;           /* Adds space around the numbers */
-    border: 1px solid black; /* Optional: adds a border around each number */
-    height: 0.4in;
+    background-color: #ddcbcd;
     
 }
 #A{
-    background-color: rgb(255,0,0);
+    background-color: rgb(0,0,255)
+    ;
 }
 #B{
-    background-color: rgb(210, 105, 30) ;
+    background-color: rgb(0,0,255);
 }
 #C{
-    background-color: rgb(255, 51, 0);
-    
+    background-color: rgb(0,0,255);
 }
 #D{
-    background-color:rgb(255, 102, 0);
-    
-}
-#E{
-    background-color: rgb(255, 153, 0);
-    
+    background-color: rgb(0,0,255);
 
 }
+#E{
+    background-color: rgb(0,0,255);
+}
 #F{
-    background-color: rgb(255, 255, 0);
-    
+    background-color: rgb(158, 244, 247)
 
 }
 #G{
-    background-color:rgb(204, 255, 0);
-    
+    background-color: rgb(171, 252, 255)
 
 }
 #H{
-    background-color:  rgb(0, 255, 0);
-
-
+    background-color: rgb(0,180,0)
 }
-#I{
-    background-color: rgb(0, 204, 255);
-    
+#I
+#J
+#K
+#L
+#M
+#N
+#O{
+    background-color: rgb#9B1B30;
+}    
 
-}
-#J{
-    background-color: rgb(0, 0, 255);
-    
-
-}
-#K{
-    background-color: rgb(51, 0, 255);
-    
-
-}
-#L{
-    background-color:  rgb(102, 0, 204);
-    
-
-}
-#M{
-    background-color:  rgb(153, 0, 204);
-    
-
-}
-#N{
-    background-color:rgb(0, 0, 255);
-
-    
-
-}
